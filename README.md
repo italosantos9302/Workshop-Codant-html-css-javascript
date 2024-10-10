@@ -1,3 +1,3 @@
 # Workshop-Codant-html-css-javascript
 
-Codant workshop: htlm, css e javascript
+Aula 1 - git e github
